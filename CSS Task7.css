@@ -1,0 +1,63 @@
+label {
+  display: inline-block;
+  width: 115px;
+  /* padding: 13px; */
+  padding-top: 13px;
+  padding-bottom: 13px;
+  font-size: 18px;
+  color: white;
+}
+
+input {
+  padding: 5px;
+  width: 180px;
+}
+
+textarea {
+  padding: 5px;
+  width: 180px;
+}
+
+.outer {
+  margin-left: 290px;
+  margin-right: 290px;
+  background-color: rgb(162, 43, 85);
+  padding: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.inner {
+  background-color: rgb(118, 32, 63);
+}
+
+.form {
+  /* margin: 50px; */
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  /* margin-left: auto;
+  margin-right: auto; */
+}
+
+form {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+select {
+  padding: 5px;
+  width: 150px;
+  background-color: rgb(222, 221, 214);
+  /* font-weight: bold; */
+  font-size: 15px;
+}
+
+button {
+  text-align: center;
+  font-size: 21px;
+  font-weight: bold;
+  border-radius: 7px;
+  padding: 5px;
+  width: 310px;
+}
